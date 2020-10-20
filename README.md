@@ -53,7 +53,7 @@ Here are some final considerations:
 * You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
 
 * Don't get bogged down in small details. Always focus on the big picture. If you can't figure out how to get a label to show up correctly, come back to it. Focus on getting the core skeleton of your notebook complete. You can always revisit old problems.
-
+  
 * While you are trying to complete this assignment, feel encouraged to constantly refer to Stack Overflow and the Pandas documentation. These are needed tools in every data analyst's tool belt.
 
 * Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
