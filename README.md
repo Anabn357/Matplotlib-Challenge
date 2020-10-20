@@ -47,7 +47,7 @@ Here are some final considerations:
 * See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
 
 ## Hints and Considerations
-
+  
 * Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
 
 * You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
