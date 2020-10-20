@@ -63,7 +63,7 @@ Here are some final considerations:
   * How do I build a basic scatter plot?
 
   * How do I add a label to that scatter plot?
-
+  
   * Where would the labels for that scatter plot come from?
 
   Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
